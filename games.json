@@ -12,13 +12,13 @@
       "title": "PUBG KOREA",
       "package": "com.pubg.krmobile",
       "version": "3.9.0",
-      "status": "Safe"
+      "status": "not safe"
     },
       {
         "title": "PUBG VIETNAM",
         "package": "com.vng.pubgmobile",
         "version": "3.9.0",
-        "status": "Safe"
+        "status": "not safe"
       },
     {
       "title": "PUBG INDIA",
